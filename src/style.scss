@@ -1,0 +1,15 @@
+$rcolor : indianred;
+
+.red-background{
+    background-color: $rcolor ;
+    display: flex;
+    justify-content: center;
+}
+#imgContainer{
+    display: flex;
+    justify-content: center;
+}
+#root{
+    display: flex;
+    justify-content: center;
+}
